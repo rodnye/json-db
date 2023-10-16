@@ -1,0 +1,12 @@
+{
+  "name": "json-db",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodnyE/json-db.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
